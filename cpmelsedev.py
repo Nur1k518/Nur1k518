@@ -1,8 +1,8 @@
 import requests
 from time import sleep
-BASE_URL: str = "https://github.com/Nur1k518/Nur1k518.git"
+BASE_URL: str = "https://cpmnurik.squareweb.app/api"
 
-class Nur1k518:
+class CPMElsedev:
 
     def __init__(self, access_key) -> None:
         self.auth_token = None
