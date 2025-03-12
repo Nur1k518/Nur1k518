@@ -11,7 +11,7 @@ from rich.style import Style
 import pystyle
 from pystyle import Colors, Colorate
 
-from cpmnurikdevshop import CPMNurikDevshop
+from cpmnurikdevshop import CPMNurikDevShop
 
 __CHANNEL_USERNAME__ = "cpmnurik001"
 __GROUP_USERNAME__   = "Telegram-@cpmnurik2010"
