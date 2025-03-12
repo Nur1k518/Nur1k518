@@ -1,4 +1,5 @@
 import requests
+
 __ENDPOINT_URL__: str = "https://cpmnurikdevshop.squareweb.app/api
 
 class Ayandev:
