@@ -18,7 +18,7 @@ import datetime
 from ayandev import AyanDev
 
 __CHANNEL_USERNAME__ = "CPMNurik001"
-__GROUP_USERNAME__   = "not available"
+__GROUP_USERNAME__   = "cpmnurik2010"
 
 def signal_handler(sig, frame):
     print("\n Bye Bye...")
