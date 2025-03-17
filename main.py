@@ -15,7 +15,7 @@ from pystyle import Colors, Colorate
 from pystyle import Center
 import datetime
 
-from ayandev import AyanDev
+from ayandev import nurikDev
 
 __CHANNEL_USERNAME__ = "CPMNurik001"
 __GROUP_USERNAME__   = "cpmnurik2010"
