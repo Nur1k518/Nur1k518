@@ -1,18 +1,19 @@
 pkg update
-ㅤ
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 pkg upgrade -y
-ㅤ
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 pkg install git
-ㅤ
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 pkg install python -y
-ㅤ
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 git clone https://github.com/Nur1k518/Nur1k518.git
-ㅤ
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 cd Nur1k518
-ㅤ
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 git pull
-ㅤㅤ
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 pip install -r requirements.txt
-ㅤ
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 python main.py
 ㅤ
+ㅤㅤㅤ
